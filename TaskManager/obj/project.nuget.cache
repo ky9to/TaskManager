@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcshyTZgFQg=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ky9to\\Documents\\TaskManager\\TaskManager\\TodoListManager.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Обнаружен цикл. \r\n  TodoListManager -> TodoListManager.",
+      "libraryId": "TodoListManager",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

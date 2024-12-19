@@ -1,0 +1,14 @@
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\task_manager.exe
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\task_manager.deps.json
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\task_manager.runtimeconfig.json
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\task_manager.dll
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\task_manager.pdb
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\task_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\task_manager.AssemblyInfoInputs.cache
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\task_manager.AssemblyInfo.cs
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\task_manager.csproj.CoreCompileInputs.cache
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\task_manager.dll
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\refint\task_manager.dll
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\task_manager.pdb
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\task_manager.genruntimeconfig.cache
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\ref\task_manager.dll

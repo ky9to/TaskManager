@@ -1,0 +1,17 @@
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\TodoListManager.exe
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\TodoListManager.deps.json
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\TodoListManager.runtimeconfig.json
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\TodoListManager.dll
+C:\Users\ky9to\Documents\task manager\bin\Debug\net9.0\TodoListManager.pdb
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\TodoListManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\TodoListManager.AssemblyInfoInputs.cache
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\TodoListManager.AssemblyInfo.cs
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\TodoListManager.csproj.CoreCompileInputs.cache
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\TodoListManager.dll
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\refint\TodoListManager.dll
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\TodoListManager.pdb
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\TodoListManager.genruntimeconfig.cache
+C:\Users\ky9to\Documents\task manager\obj\Debug\net9.0\ref\TodoListManager.dll
+C:\Users\ky9to\Documents\TaskManager\TaskManager\obj\Debug\net9.0\TodoListManager.dll
+C:\Users\ky9to\Documents\TaskManager\TaskManager\obj\Debug\net9.0\refint\TodoListManager.dll
+C:\Users\ky9to\Documents\TaskManager\TaskManager\obj\Debug\net9.0\TodoListManager.pdb
